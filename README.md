@@ -19,19 +19,23 @@ Atualmente estou no *Bootcamp Hiring Coders*,  então irei colocar todos os proj
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ------------
-📌 **Databases que uso nos meus projetos **
+📌 **Databases que uso nos meus projetos**
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ------------
 👩‍💻 *Curiosidade: Onde normalmente eu programo*
+
 ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white) ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)
 
 ------------
 
 📌 **Onde me encontrar**
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-flavia-fogaca/ "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)")
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
 
-
+📚 ## Ultimamente estou no:
+![Hiring Coders](https://i.ibb.co/wYDyfBD/unnamed.png)
 
