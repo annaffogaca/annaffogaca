@@ -18,17 +18,14 @@ Atualmente estou no *Bootcamp Hiring Coders*,  então irei colocar todos os proj
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-------------
 📌 **Databases que uso nos meus projetos**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-------------
-👩‍💻 *Curiosidade: Onde normalmente eu programo*
+👩‍💻 Curiosidade: Onde normalmente eu programo
 
 ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white) ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)
 
-------------
 
 📌 **Onde me encontrar**
 
@@ -36,6 +33,6 @@ Atualmente estou no *Bootcamp Hiring Coders*,  então irei colocar todos os proj
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
 
-📚 ## Ultimamente estou no:
+## 📚 Ultimamente estou no:
 ![Hiring Coders](https://i.ibb.co/wYDyfBD/unnamed.png)
 
