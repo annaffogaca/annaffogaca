@@ -6,12 +6,12 @@ Aqui vai ser o meu cantinho onde vou deixar maioria dos meus projetos e ir atual
 
 Atualmente estou no *Bootcamp Hiring Coders*,  então irei colocar todos os projetos do bootcamp por aqui também! 💛
 
-<center> 📚 **Ultimamente estou em:** </center>
+📚 **Ultimamente estou em:**
 ![Hiring Coders](https://i.ibb.co/wYDyfBD/unnamed.png)
 
-<center>------------</center>
 
-<center> 📌 **Tecnologias que tenho experiência e sou apaixonada**  
+<center> 📌 **Tecnologias que tenho experiência e sou apaixonada**
+	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </center>
 
 ------------
